@@ -13,7 +13,6 @@
 - I'm all about **learning**, **growing**, and helping others do the same.
 
 ### 📬 Let’s Connect:
-- 🌐 [Portfolio](#)  
 - 💌 [Email](devesharsd2@gmail.com)  
 - ✨ [GitHub Projects](#)
 
